@@ -8,13 +8,14 @@ Fields: Invoice No., Client Name, Account Manager, Invoice Date, Invoice Amount,
 Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
 
 ## Questions (KPIs)
-What is the total number of invoices and the total amount raised?
-How much has been received till date, and what is the overall collection %?
-What is the outstanding amount and how many invoices are still pending?
-Compare invoice amount vs. received amount month by month using a single chart.
-Which month had the highest invoice amount, and which month had the weakest collection?
-How is each account manager performing on collection?
-Which top 5 clients have the highest pending amount?
-How much is expected to be collected in the coming weeks (week-wise, month-wise)?
+- What is the total number of invoices and the total amount raised?
+- How much has been received till date, and what is the overall collection %?
+- What is the outstanding amount and how many invoices are still pending?
+- Compare invoice amount vs. received amount month by month using a single chart.
+- Which month had the highest invoice amount, and which month had the weakest collection?
+- How is each account manager performing on collection?
+- Which top 5 clients have the highest pending amount?
+- How much is expected to be collected in the coming weeks (week-wise, month-wise)?
 
 Dashboard Interaction
+![Collection Dashboard FY 26-27 (Power Bi)](https://github.com/Abhijeetpatil-1998/Readme-MD-Collection-Highlights-Dashboard-FY2026-27-Interactive-Dashboard-creation-using-Power-BI-/blob/main/Collection%20Dashboard%20FY%2026-27%20(Power%20Bi).jpeg)
