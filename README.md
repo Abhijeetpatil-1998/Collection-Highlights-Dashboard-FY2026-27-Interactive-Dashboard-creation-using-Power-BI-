@@ -41,8 +41,8 @@ Dashboard Interaction
 To improve collections, a focused recovery plan should be implemented for the top pending clients, especially Suryoday Small Finance Bank, Vegapay Technology and The Jammu and Kashmir Bank, which together hold most of the outstanding amount. Account manager Nikhil Phatak's portfolio needs priority follow-up, and the best practices of Rahil Mulani and Vishaka Khatrani (over 90% collection) can be shared across the team. Weekly follow-ups against the expected collection schedule and early reminders for aging invoices (like those from July and September) will help bring the collection % above 85% by year end.
 
 ## Tools Used
-Power BI Desktop (Data model, DAX, Visuals, Slicers)
-Microsoft Excel (Data cleaning)
+- Power BI Desktop (Data model, DAX, Visuals, Slicers)
+- Microsoft Excel (Data cleaning)
 
 
 
